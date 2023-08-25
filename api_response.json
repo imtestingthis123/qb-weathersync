@@ -1,0 +1,15 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 39   337   35   110  100    24    340     74 --:--:-- --:--:-- --:--:--   414100   337  100   313  100    24    966     74 --:--:-- --:--:-- --:--:--  1040
+{
+  "message": "Repository creation failed.",
+  "errors": [
+    {
+      "resource": "Repository",
+      "code": "custom",
+      "field": "name",
+      "message": "name already exists on this account"
+    }
+  ],
+  "documentation_url": "https://docs.github.com/rest/repos/repos#create-an-organization-repository"
+}
